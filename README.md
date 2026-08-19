@@ -1,6 +1,6 @@
 # Walkie-Talkie
 # Cyfrowy Radiotelefon Walkie-Talkie ESP32 (ESP-NOW & I2S Audio)
-
+![Wygląd urządzenia](/Wygląd.jpg)
 Przenośny, cyfrowy komunikator radiowy dwukierunkowy (walkie-talkie) oparty na mikrokontrolerze **ESP32**. Układ rejestruje i odtwarza dźwięk za pośrednictwem cyfrowej magistrali **I2S** oraz przesyła pakiety audio w paśmie **2.4 GHz** z wykorzystaniem protokołu bezpośredniego **ESP-NOW** (bez potrzeby łączenia z routerem Wi-Fi). Całość została zamknięta w dedykowanej obudowie zoptymalizowanej pod druk 3D, zaprojektowanej w programie **Autodesk Fusion 360**.
 
 ---
@@ -16,7 +16,7 @@ Przenośny, cyfrowy komunikator radiowy dwukierunkowy (walkie-talkie) oparty na 
 ---
 
 ## 🛠️ Zastosowane Komponenty (BOM)
-
+![Wnętrze urządzenia](/Wnętrze.jpg)
 | Element | Model / Opis | Interfejs / Protokół |
 | :--- | :--- | :--- |
 | **Mikrokontroler** | ESP32-WROOM-32 (płytka rozwojowa) | SPI / I2S / RF 2.4 GHz |
